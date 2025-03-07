@@ -1,7 +1,7 @@
 
 # Mi Card
 
-#Goal
+# Goal
 
 This project explores how to design user interfaces for Flutter apps.
 
